@@ -1,3 +1,3 @@
-module github.com/kc4tkl/kc4tkl/test1
+module github.com/kc4tkl/kc4tkl
 
 go 1.14
