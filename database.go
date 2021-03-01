@@ -1,6 +1,8 @@
 package kc4tkl
 
-import "fmt"
+import (
+	"fmt"
+)
 
 // Database - comment
 func Database() {
