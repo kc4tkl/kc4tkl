@@ -2,6 +2,7 @@ package kc4tkl
 
 import "fmt"
 
-func main() {
+// Database - comment
+func Database() {
 	fmt.Println("database")
 }
